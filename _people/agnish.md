@@ -1,0 +1,13 @@
+---
+first_name: Agnish
+last_name: Behera
+position: Flatiron Research Fellow
+degree: Ph.D.
+image: agnish.jpeg
+category: Current
+email: abehera@flatironinstitute.org
+# github_username:
+scholar_userid: m29ij78AAAAJ
+---
+<!-- bio below -->
+Agnish Kumar Behera joined the Flatiron Institute as a Flatiron Research Fellow in September 2025. He works with Mitya Chklovskii on neural circuits and algorithms. Before joining the institute, Agnish got his Ph.D. in Chemistry under Prof. Suriyanarayanan Vaikuntanathan and briefly worked as a transitional postdoc with Prof. Arvind Murugan, both at the University of Chicago. He worked on processing of information in various associative memory models and generative diffusion models out of equilibrium. Agnish obtained his BS at the Indian Institute of Science with a major in Chemistry and minors in Physics and Biology. Outside work, Agnish loves traveling, hiking, cooking, running and playing squash.

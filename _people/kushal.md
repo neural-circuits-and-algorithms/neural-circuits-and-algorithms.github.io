@@ -3,7 +3,7 @@ first_name: Kushal
 last_name: Kolar
 position: PhD Student
 degree: B.Sc
-category: Current
+category: Past
 email: kkolar@flatironinstitute.org
 github_username: kushalkolar
 scholar_userid: wU_Okg8AAAAJ
