@@ -2,9 +2,9 @@
 first_name: Pat
 last_name: Gunn
 position: Senior Software Engineer
-degree: 
+degree:
 image: pat.webp
-category: Current
+category: Past
 email: pgunn@flatironinstitute.org
 github_username: pgunn
 ---
