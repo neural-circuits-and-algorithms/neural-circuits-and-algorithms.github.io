@@ -9,8 +9,9 @@
 
 ## Add a publication to "Publications" section
 1. Add your bibtex .bib citation to _bibliography/papers.bib
-2. If throughout the website you want your author name to be a hyperlink to a personal website or google scholar etc... then add a section to coauthors.yml
-3. If you want the paper to appear in the Selected Publications section on the main page set selected={true} in the .bib citation
+2. If a publication from a new year is added, also add that year to _pages/publications.md
+3. If throughout the website you want your author name to be a hyperlink to a personal website or google scholar etc... then add a section to coauthors.yml
+4. If you want the paper to appear in the Selected Publications section on the main page set selected={true} in the .bib citation
 
 ## Add a project to "Projects" section
 1. Create a new markdown file in the _projects folder, PROJECT_NAME.md
@@ -38,7 +39,7 @@ $ bundle exec jekyll serve
 ```
 Then navigate in your browser to http://127.0.0.1:4000
 
-# Deploy 
+# Deploy
 Currently no automated deployment is set up. You must manually deploy by running commands on your local machine.
 To do this, from the root folder run:
 1. `git checkout main`
@@ -145,7 +146,7 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://julianstreyczek.github.io" target="_blank">★</a>
 <a href="https://sdaza.com" target="_blank">★</a>
 <a href="https://niweera.gq" target="_blank">★</a>
-   
+
 </td>
 </tr>
 <tr>
